@@ -11,3 +11,5 @@ degrees Fahrenheit (F) doubles the moisture-holding capacity of air and cuts
 the relative humidity in half. The rate of moisture movement from high moisture
 grain to low relative humidity air is rapid. However, the moisture movement
 from wet grain to moist air may be very small or nonexistent.
+
+Link to read report is here(https://github.com/AjLaddha/Smart_Grain_Dryer/blob/master/CLOSURE%20REPORT.pdf)
